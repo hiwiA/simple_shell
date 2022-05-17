@@ -1,7 +1,7 @@
-.TH man 1 "Dic 07  2021"  "Holberton School 0x16. C - Simple Shell"
+.TH man 1 "Mar 07  2021"  " Simple Shell"
 .SH NAME
-    hsh - Holberton Simple Shell: command line interpreter
-.PP
+.B simple_shell
+- Simple shell made in C language to interact with a linux operating system.
 .SH SYNOPSIS
 .B hsh
 [command_string [arg...][file]]
